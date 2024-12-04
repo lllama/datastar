@@ -1,3 +1,3 @@
 from .sse import SSE_HEADERS, ServerSentEventGenerator
 
-__ALL__ = [ServerSentEventGenerator, SSE_HEADERS]
+__all__ = ["ServerSentEventGenerator", "SSE_HEADERS"]
